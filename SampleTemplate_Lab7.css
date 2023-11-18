@@ -1,0 +1,50 @@
+/* Note, there are no CSS requirements for this lab, 
+this CSS is just to make it look nice and 
+match the example in the instructions*/
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+#main-block {
+    padding: 1%;
+    margin-left: 1%;
+}
+
+
+.magic-trick {
+    width: 95%;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+button {
+  font-size: 16px;
+  text-align: center;
+  border: 2px solid #4CAF50;
+  border-radius: 5px; 
+  background-color: #4CAF50; 
+  color: #ffffff; 
+}
